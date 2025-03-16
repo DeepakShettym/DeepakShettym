@@ -4,7 +4,7 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Wi-Fi module development**  
-- 🌱 Learning **Device Drivers, Device Tree, and SPI Protocol**  
+- 🌱 I’m currently **Device Drivers, Device Tree, and SPI Protocol**  
 - 📫 Reach me at **deepakshettyksd@gmail.com**  
 
 ---
