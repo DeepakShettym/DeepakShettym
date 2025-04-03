@@ -1,6 +1,6 @@
 ## 👋 Hi there!  
 
-<h3 align="center">Embedded Systems and Android Kernel Developer specializing in C/C++, Linux Kernel, Android NDK, and Device Drivers. Expert in developing kernel-level and user-space drivers for seamless hardware-software integration</h3>  
+<h3 align="center">Embedded Systems and Android Kernel Developer specializing in C/C++, Linux Kernel, Android NDK, and Device Drivers. Experienced in developing kernel-level and user-space drivers for seamless hardware-software integration</h3>  
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Wi-Fi module development**  
