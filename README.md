@@ -1,20 +1,28 @@
 ## 👋 Hi there!  
 
-<h3 align="center">Embedded Systems and Android Kernel Developer specializing in C/C++, Linux Kernel, Android NDK, and Device Drivers. Experienced in developing kernel-level and user-space drivers for seamless hardware-software integration</h3>  
+<h3 align="center">Embedded Systems and Android Kernel Developer specializing in C/C++, Linux Kernel, Android NDK, and Device Drivers. Experienced in developing kernel-level and user-space drivers for seamless hardware-software integration.</h3>  
+
+---
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Wi-Fi module development**  
-- 🌱 I’m currently learning **Device Drivers, Device Tree, and SPI Protocol**  
-- 📫 Reach me at **deepakshettyksd@gmail.com**
+- 🌱 Learning **Device Drivers, Device Tree, and SPI Protocol**  
+- 📫 Reach me at **deepakshettyksd@gmail.com**  
 - 📄 [Download My Resume](./DeepakM-July2025.pdf)
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://twitter.com/deepakm1893002" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/deepakm1893002" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-<a href="https://www.leetcode.com/deepak_shetty_ksd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
+  <a href="https://twitter.com/deepakm1893002" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deepakm1893002" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/deepak_shetty_ksd" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
 </p>
 
 ---
