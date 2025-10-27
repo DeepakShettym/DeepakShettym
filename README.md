@@ -5,7 +5,8 @@
 ### 🚀 About Me  
 - 🔭 Currently working on **Wi-Fi module development**  
 - 🌱 I’m currently learning **Device Drivers, Device Tree, and SPI Protocol**  
-- 📫 Reach me at **deepakshettyksd@gmail.com**  
+- 📫 Reach me at **deepakshettyksd@gmail.com**
+- 📄 [Download My Resume](./Deepak_Shetty_Resume.pdf)
 
 ---
 
