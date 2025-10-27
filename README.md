@@ -6,7 +6,6 @@
 - 🔭 Currently working on **Wi-Fi module development**  
 - 🌱 I’m currently learning **Device Drivers, Device Tree, and SPI Protocol**  
 - 📫 Reach me at **deepakshettyksd@gmail.com**
-- 📄 [View My Resume](https://github.com/<your-username>/<repo-name>/blob/main/DeepakM-July2025.pdf)
 - 📄 [Download My Resume](./DeepakM-July2025.pdf)
 
 ---
