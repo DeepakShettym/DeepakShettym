@@ -6,7 +6,7 @@
 ### 🚀 About Me  
 Embedded software engineer working on ARM-based Linux systems.
 
-- Developing on **Allwinner T527 embedded platforms**  
+- Developing on **Allwinner T527** embedded platforms  
 - Writing **Linux kernel drivers (I²C, GPIO, sensors)** 
 - Experience across **kernel space** and **user space**  
 - Implementing **Fuel Gauge monitoring** via I²C
