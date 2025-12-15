@@ -4,13 +4,14 @@
 ---
 
 ### 🚀 About Me  
-I work in the space where **embedded systems**, **Linux kernel**, and **Android internals** intersect.  
-I focus on building stable driver-level solutions and ensuring reliable hardware–software communication.
+Embedded software engineer working on ARM-based Linux systems.
 
-- Currently working on **Wi-Fi module development**  
-- Hands-on with **I²C/SPI drivers, Device Tree, and embedded protocols**  
+- Developing on **Allwinner T527 embedded platforms**  
+- Writing **Linux kernel drivers (I²C, GPIO, sensors)** 
 - Experience across **kernel space** and **user space**  
-- Strong interest in improving debugging and low-level design skills  
+- Implementing **Fuel Gauge monitoring** via I²C
+- Integrating **ESP Wi-Fi modules** with Linux user-space tools
+- Supporting **board bring-up** and system debugging
 
 📫 Email: **deepakshettyksd@gmail.com**  
 📄 Resume: [Download](./DeepakM-July2025.pdf)
